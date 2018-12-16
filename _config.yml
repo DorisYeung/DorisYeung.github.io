@@ -76,7 +76,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Be in love with coding<br>一个简单的程序员"
+sidebar-about-description: "Delay no More <br> 一个爱撸猫的元气少女"
 sidebar-avatar: /img/Doris.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
