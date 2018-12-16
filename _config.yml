@@ -96,25 +96,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WYF",
-        href: "https://i.wwyf.top"
-    },{
-        title: "BensonYan",
-        href: "https://github.com/YanB25"
+        title: "Ridiculous",
+        href: "https://clearloveh.github.io/"
     },{
         title: "zhongwq",
         href: "https://github.com/zhongwq"
     },{
-        title: "CookiesChen",
-        href: "http://cookieschen.cn"
-    },{
         title: "Limsanity",
         href: "https://github.com/Limsanity"
-    },{
-        title: "Eadric Chen",
-        href: "https://github.com/Krazymud"
-    },{
-        title: "huangyt39",
-        href: "https://github.com/huangyt39"
     }
 ]
