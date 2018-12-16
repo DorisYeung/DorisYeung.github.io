@@ -12,12 +12,6 @@ tags:
 
 >作为我的博客的第一篇文章。本文选取了LeetCode上一个中等难度的问题来进行算法的设计。
 
----
-
-#  Add two numbers 
->Difficulty: Medium
-
-### Description: 
 
 -   You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 <br>You may assume the two numbers do not contain any leading zero, except the number 0 itself.
