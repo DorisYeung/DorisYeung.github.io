@@ -97,7 +97,7 @@ service-worker: true
 friends: [
     {
         title: "Ridiculous",
-        href: "https://clearloveh.github.io/"
+        href: "https://github.com/ClearLoveH"
     },{
         title: "zhongwq",
         href: "https://github.com/zhongwq"
