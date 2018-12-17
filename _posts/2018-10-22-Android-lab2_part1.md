@@ -7,7 +7,7 @@ author:     "Heng"
 header-img: "img/弗雷尔卓德2.jpg"
 catalog: true
 tags:
-    - fucking
+    - Android
 ---
 
 >Royal may give up now..
