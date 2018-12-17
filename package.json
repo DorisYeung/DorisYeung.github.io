@@ -1,14 +1,14 @@
 {
-    "name": "heng-blog",
-    "title": "Heng Blog",
-    "author": "Heng <964683913@qq.com>",
+    "name": "Doris-blog",
+    "title": "Doris Blog",
+    "author": "Doris <doris7758521@vip.qq.com>",
     "version": "1.1.0",
-    "homepage": "http://clearloveh.github.io",
+    "homepage": "http://DorisYeung.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ClearLoveH/ClearLoveH.github.io"
+        "url": "https://github.com/DorisYeung/DorisYeung.github.io"
     },
-    "bugs": "https://github.com/ClearLoveH/ClearLoveH.github.io",
+    "bugs": "https://github.com/DorisYeung/DorisYeung.github.io",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
