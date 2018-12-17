@@ -15,7 +15,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Doris-DaSu
+weibo_username:     DorisSuYeung
 zhihu_username:     DorisYeung
 github_username:    DorisYeung
 twitter_username:   DorisSu_Yeung
