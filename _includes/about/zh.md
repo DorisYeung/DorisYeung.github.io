@@ -6,7 +6,7 @@ Hey，我是Doris。
 
 ##### Talks
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
+- [简书](https://www.jianshu.com/p/191d1e21f7ed“Markdown基本语法”)
 - Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
 - The State of Progressive Web App · GDG IO Redux 北京 2017
 - 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
