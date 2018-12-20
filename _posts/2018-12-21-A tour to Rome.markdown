@@ -15,4 +15,4 @@ tags:
 ---
 
 - 沿街随处可见百年的老松，不愧是文明古城
-![](img\in-post\post-Rome\Rome1.jpg)
+![](img/in-post/post-Rome/Rome1.jpg)
