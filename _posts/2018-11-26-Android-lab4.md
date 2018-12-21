@@ -2,8 +2,8 @@
 layot:     post
 title:      "简单音乐播放器"
 date:       2018-11-26 10:50
-author:     "Heng"
-header-img: "img/弗雷尔卓德2.jpg"
+author:     "Doris"
+header-img: "img/BG.jpg"
 catalog: true
 tags:
     - Android
