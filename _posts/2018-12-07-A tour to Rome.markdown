@@ -10,7 +10,7 @@ tags:
     - Journey
 ---
 
->广东第二次入冬失败了.又回暖了
+>广东第第一次入冬
 
 ---
 
@@ -22,3 +22,21 @@ tags:
 
 - 五条大街聚汇在这个罗马最大的广场
 ![](/img/in-post/post-Rome/Rome2.jpg)
+
+- 威风凛凛的维克多·埃曼纽尔二世骑在他的坐骑上，指点着被他的统一的意大利 ，只能仰视
+![](/img/in-post/post-Rome/Rome3.jpg)
+
+- 日月同辉在罗马大斗兽场上，难得一见的奇境
+![](/img/in-post/post-Rome/Rome4.jpg)
+
+- 月牙在照片里很小，仔细观察下
+![](/img/in-post/post-Rome/Rome5.jpg)
+
+- 这竞技场最多能容纳八万观众，却容不下一个卑微奴隶角斗士的胜利，即使角斗士战胜了猛兽也不得自由，直到战死。
+![](/img/in-post/post-Rome/Rome6.jpg)
+
+- 各色夹竹桃围绕在大斗兽场周围，与远处千年前传入耳中的奴隶喊杀声，兵器撞击声，猛兽嘶吼声形成鲜明对比
+![](/img/in-post/post-Rome/Rome7.jpg)
+
+- 斗兽场内，千年来竟仍然保留着这洪荒酷境，长老，贵族们嗤之以鼻，高高在上观看着那残酷的万人万兽的殷红交战
+![](/img/in-post/post-Rome/Rome8.jpg)
