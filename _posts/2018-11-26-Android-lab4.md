@@ -6,7 +6,7 @@ author:     "Doris"
 header-img: "img/BG.jpg"
 catalog: true
 tags:
-    - Android
+    - Knowledge
 ---
 
 >Invictus Gaming——We are the champion！.
