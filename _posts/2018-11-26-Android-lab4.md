@@ -1,6 +1,6 @@
 ---
 layot:     post
-title:      "简单音乐播放器"
+title:      "简单音乐播放器[Android]"
 date:       2018-11-26 10:50
 author:     "Doris"
 header-img: "img/BG.jpg"
