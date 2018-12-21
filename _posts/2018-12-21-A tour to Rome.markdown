@@ -7,7 +7,7 @@ author:     "LiuXiaorong and Doris "
 header-img: "img/BG.jpg"
 catalog: true
 tags:
-    -Journey
+    - Journey
 ---
 
 >广东第二次入冬失败了.又回暖了
