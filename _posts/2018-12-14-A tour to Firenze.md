@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "A tour to Firenze佛罗伦萨旅游攻略"
+title:      "A tour to Firenze-佛罗伦萨旅游攻略"
 subtitle:   "出发前往文艺复兴之都，佛罗伦萨"
 date:       2018-12-14 12:20
 author:     "LiuXiaorong"
@@ -39,3 +39,5 @@ tags:
 
 - 住在百花教堂旁边，拍了一张朝阳下的教堂，清晨离开佛罗伦萨，前往比萨。两地坐普通火车一个小时就能到
 ![](/img/in-post/post-Firenze/Firenze9.jpg)
+
+下一站：比萨斜塔#
