@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2018-12-15-A tour to Leaning Tower of Pisa-比萨斜塔旅行记录"
+title:      "A tour to Leaning Tower of Pisa-比萨斜塔旅行记录"
 subtitle:   "闻名遐迩的世界七大奇迹，你好，比萨斜塔 ！"
 date:       2018-12-15 12:30
 author:     "LiuXiaorong"
