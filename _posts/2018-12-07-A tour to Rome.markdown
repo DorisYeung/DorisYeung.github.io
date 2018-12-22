@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "A tour to Rome-罗马旅游攻略"
+title:      "A tour to Rome-罗马旅行记录"
 subtitle:   "罗马，一个令人向往的千年之城"
 date:       2018-12-07 12:20
 author:     "LiuXiaorong"
@@ -10,7 +10,7 @@ tags:
     - Journey
 ---
 
->广州第一次入冬
+>广州第一次入冬# 关于意大利系列第一篇 
 
 ---
 

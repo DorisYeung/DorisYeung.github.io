@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "A tour to Firenze-佛罗伦萨旅游攻略"
+title:      "A tour to Firenze-佛罗伦萨旅行记录"
 subtitle:   "出发前往文艺复兴之都，佛罗伦萨"
-date:       2018-12-14 12:20
+date:       2018-12-14 12:10
 author:     "LiuXiaorong"
 header-img: "img/BG.jpg"
 catalog: true
@@ -10,7 +10,7 @@ tags:
     - Journey
 ---
 
->广州第二次入冬
+>广州第二次入冬# 关于意大利系列第二篇 
 
 ---
 
