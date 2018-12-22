@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "A tour to Venice-威尼斯旅行记录#"
+title:      "A tour to Venice-威尼斯旅行记录"
 subtitle:   "千彩百变的威尼斯"
 date:       2018-12-16 12:30
 author:     "LiuXiaorong"
