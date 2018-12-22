@@ -13,9 +13,6 @@ tags:
 
 ---
 
-[项目仓库](https://gitee.com/ClearLoveH/PersonalProject4)
-
----
 
 ## 一、实验题目 
 
