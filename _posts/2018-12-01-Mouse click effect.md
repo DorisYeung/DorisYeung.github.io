@@ -18,7 +18,7 @@ tags:
 社会主义核心价值观是在以马克思主义为指导思想，以实现中国特色社会主义共同理想为目标，坚持以爱国主义为核心的民族精神和改革创新为核心的时代精神相结合的时代背景下实现的，是社会主义核心价值体系最核心的体现（此处省略三万字）
 
 首先先看下效果图（也可以直接在网页中点击查看）
-![](/img/in-post/post-Mouse click effect/Xgt.jpg)
+![](/img/in-post/post-Mouse click effect/Mouse click effect.jpg)
 
 话不多说直接上代码 
 
